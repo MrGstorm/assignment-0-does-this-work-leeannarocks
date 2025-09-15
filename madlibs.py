@@ -1,3 +1,9 @@
+# mad libs project
+# leeanna larocque
+# september 15th, 2025
+# this program will input your words into the story
+
+
 place  = input("Enter a place: ")
 person = input("Enter a person: ")
 pastTenseVerb = input("Enter a past tense verb: ")
